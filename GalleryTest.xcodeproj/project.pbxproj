@@ -16,6 +16,9 @@
 		F76147721510D9A300E492E4 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F76147701510D9A300E492E4 /* MainStoryboard.storyboard */; };
 		F76147751510D9A300E492E4 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F76147741510D9A300E492E4 /* ViewController.m */; };
 		F761477E1510E80C00E492E4 /* ipad-nav-background.png in Resources */ = {isa = PBXBuildFile; fileRef = F761477D1510E80B00E492E4 /* ipad-nav-background.png */; };
+		F76147851510F48C00E492E4 /* CompareApplicationsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F76147801510F48B00E492E4 /* CompareApplicationsViewController.m */; };
+		F76147861510F48C00E492E4 /* ImageScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = F76147821510F48C00E492E4 /* ImageScrollView.m */; };
+		F76147871510F48C00E492E4 /* TilingView.m in Sources */ = {isa = PBXBuildFile; fileRef = F76147841510F48C00E492E4 /* TilingView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +36,12 @@
 		F76147731510D9A300E492E4 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		F76147741510D9A300E492E4 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		F761477D1510E80B00E492E4 /* ipad-nav-background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ipad-nav-background.png"; sourceTree = "<group>"; };
+		F761477F1510F48B00E492E4 /* CompareApplicationsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CompareApplicationsViewController.h; sourceTree = "<group>"; };
+		F76147801510F48B00E492E4 /* CompareApplicationsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CompareApplicationsViewController.m; sourceTree = "<group>"; };
+		F76147811510F48B00E492E4 /* ImageScrollView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ImageScrollView.h; sourceTree = "<group>"; };
+		F76147821510F48C00E492E4 /* ImageScrollView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ImageScrollView.m; sourceTree = "<group>"; };
+		F76147831510F48C00E492E4 /* TilingView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TilingView.h; sourceTree = "<group>"; };
+		F76147841510F48C00E492E4 /* TilingView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TilingView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +94,12 @@
 				F76147731510D9A300E492E4 /* ViewController.h */,
 				F76147741510D9A300E492E4 /* ViewController.m */,
 				F761477D1510E80B00E492E4 /* ipad-nav-background.png */,
+				F761477F1510F48B00E492E4 /* CompareApplicationsViewController.h */,
+				F76147801510F48B00E492E4 /* CompareApplicationsViewController.m */,
+				F76147811510F48B00E492E4 /* ImageScrollView.h */,
+				F76147821510F48C00E492E4 /* ImageScrollView.m */,
+				F76147831510F48C00E492E4 /* TilingView.h */,
+				F76147841510F48C00E492E4 /* TilingView.m */,
 				F76147651510D9A300E492E4 /* Supporting Files */,
 			);
 			path = GalleryTest;
@@ -168,6 +183,9 @@
 				F761476B1510D9A300E492E4 /* main.m in Sources */,
 				F761476F1510D9A300E492E4 /* AppDelegate.m in Sources */,
 				F76147751510D9A300E492E4 /* ViewController.m in Sources */,
+				F76147851510F48C00E492E4 /* CompareApplicationsViewController.m in Sources */,
+				F76147861510F48C00E492E4 /* ImageScrollView.m in Sources */,
+				F76147871510F48C00E492E4 /* TilingView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
